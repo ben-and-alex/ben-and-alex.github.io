@@ -2,7 +2,7 @@ body{
     font-size: 200px;
     display: flex;
     flex-direction: column;
-    background-color: azure;
+    background-color: lightpink;
     text-align: center;
     flex-wrap: wrap;
 }
