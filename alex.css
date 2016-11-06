@@ -2,16 +2,18 @@ body{
     font-size: 200px;
     display: flex;
     flex-direction: column;
-    background-color: azure;
+    background-color: lightpink;
     text-align: center;
     flex-wrap: wrap;
 }
 
 header{
+    background-color: darkkhaki;
 
 }
 
 nav{
+    background-color: crimson;
 }
 
 main{
@@ -22,9 +24,16 @@ footer{
 }
 
 #picspage{
-    background-color: darkgrey;
+    background-color: lightpink;
 }
+<<<<<<< HEAD
 
 .bitcharoo{
     float: right;
 }
+=======
+p{
+    font-size: 100px;
+    color: yellowgreen;
+}
+>>>>>>> origin/master
