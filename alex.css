@@ -2,18 +2,18 @@ body{
     font-size: 200px;
     display: flex;
     flex-direction: column;
-    background-color: lightpink;
+    background-color: darkgray;
     text-align: center;
     flex-wrap: wrap;
 }
 
 header{
-    background-color: darkkhaki;
-
+    background-color: dimgray;
+    font-size: 100px;
 }
 
 nav{
-    background-color: crimson;
+    font-size: 50px;
 }
 
 main{
@@ -21,21 +21,17 @@ main{
 }
 
 footer{
-    font-size: 30px;
-    color: chartreuse;
 }
 
 #picspage{
     background-color: lightpink;
 }
 
-
 .bitcharoo{
     float: right;
 }
-
 p{
-    font-size: 50px;
-    color: yellowgreen;
+    font-size: 200px;
+    color: black;
+    font-style: italic;
 }
-
