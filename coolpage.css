@@ -1,7 +1,15 @@
 body{
     background-color: cornsilk;
 }
-main{
-    font-size: 30px;
-    color: darkorange;
+header{
+    background-color: cadetblue;
+}
+nav{
+    background-color: darkseagreen;
+}
+content{
+    background-color: deepskyblue;
+}
+footer{
+    background-color: darkmagenta;
 }
