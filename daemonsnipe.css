@@ -2,6 +2,7 @@ body{
     text-align: center;
     background-color: bisque;
     border-radius: 20px;
+    font-size: 25px;
 }
 header{
     background-color: burlywood;
@@ -17,4 +18,7 @@ footer{
     background-color: chocolate;
     font-size: 30px;
     border-radius: 20px;
+}
+head{
+    font-size: 30px;
 }
