@@ -1,8 +1,22 @@
 body{
-    font-size: 100px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
     background-color: azure;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+header{
+
+}
+
+nav{
 }
 
 main{
     float: right;
+}
+
+footer{
 }
