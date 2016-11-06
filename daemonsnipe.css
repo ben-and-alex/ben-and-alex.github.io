@@ -5,16 +5,16 @@ body{
 }
 header{
     background-color: burlywood;
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 20px;
 }
 main{
     background-color: darkkhaki;
-    font-size: 15px;
+    font-size: 30px;
     border-radius: 20px;
 }
 footer{
     background-color: chocolate;
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 20px;
 }
