@@ -21,19 +21,21 @@ main{
 }
 
 footer{
+    font-size: 30px;
+    color: chartreuse;
 }
 
 #picspage{
     background-color: lightpink;
 }
-<<<<<<< HEAD
+
 
 .bitcharoo{
     float: right;
 }
-=======
+
 p{
-    font-size: 100px;
+    font-size: 50px;
     color: yellowgreen;
 }
->>>>>>> origin/master
+

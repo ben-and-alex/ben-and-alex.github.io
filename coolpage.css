@@ -1,0 +1,23 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+}
+header{
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+nav{
+    background-color: darkseagreen;
+    font-size: 30px;
+}
+content{
+    background-color: deepskyblue;
+    font-size: 30px;
+    border-radius: 20px;
+}
+footer{
+    background-color: orange;
+    border-radius: 30px;
+}
