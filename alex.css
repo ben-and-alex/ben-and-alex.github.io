@@ -7,6 +7,10 @@ body{
     flex-wrap: wrap;
 }
 
+head{
+    font-size: 50px;
+}
+
 header{
     background-color: dimgray;
     font-size: 100px;
@@ -21,6 +25,7 @@ main{
 }
 
 footer{
+    font-size:90px;
 }
 
 #picspage{
@@ -31,7 +36,7 @@ footer{
     float: right;
 }
 p{
-    font-size: 200px;
+    font-size: 100px;
     color: black;
     font-style: italic;
 }
