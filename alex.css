@@ -8,6 +8,7 @@ body{
 }
 
 header{
+    background-color: darkkhaki;
 
 }
 
@@ -23,4 +24,8 @@ footer{
 
 #picspage{
     background-color: lightpink;
+}
+p{
+    font-size: 100px;
+    color: yellowgreen;
 }
